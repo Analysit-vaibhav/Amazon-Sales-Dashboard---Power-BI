@@ -1,4 +1,5 @@
 # 📊 Amazon Sales Dashboard - Power BI Project  
+## LINK = [https://app.powerbi.com/groups/me/reports/f379b857-6062-4076-b1b1-f8da77fee255/c3bfbdb2c795492adf54?experience=power-bi]
 
 ## 📌 Project Overview  
 This **Amazon Sales Dashboard** provides an interactive visualization of key business metrics, helping stakeholders analyze sales, profit, and customer trends. It enables data-driven decision-making by presenting insights into product categories, geographical distribution, and return orders.  
